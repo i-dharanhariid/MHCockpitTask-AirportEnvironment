@@ -1,0 +1,55 @@
+AIRPORT ENVIRONMENT - ASSET SOURCES AND LICENSES
+================================================
+
+Most 3D models were downloaded from Sketchfab and CGTrader (free assets), imported into Blender, modified,
+re-arranged and re-exported as FBX for this project. Each model remains the work of its original author and is
+used under the license shown on its page. All Sketchfab licenses below are CC Attribution 4.0
+(http://creativecommons.org/licenses/by/4.0/) unless noted; changes were made to the models.
+
+SKETCHFAB MODELS
+----------------
+"Hospital" by iagoArt3D - CC BY 4.0 - hospital building
+  https://sketchfab.com/3d-models/hospital-f91637b01dde4749aafd56ea37fa3b21
+"AMBULANCE CAR - LOW POLY" by Jasmin Daniel - CC BY 4.0 - ambulance
+  https://sketchfab.com/3d-models/ambulance-car-low-poly-25392b75045946f7a4c9a03e3bea969e
+"chainlink fence (tileable)" by ChoboiAssets - CC BY 4.0 - airport boundary fence
+  https://sketchfab.com/3d-models/chainlink-fence-tileable-397735ac4f5b4ac9a4b582576315d065
+"Fence" by Miguel-Angel - CC BY 4.0 - fence
+  https://sketchfab.com/3d-models/fence-b112862756ed48b3ab8ee83f5bae9759
+"Posto Pedagio / Toll Station - Rodoanel CCR" by eeuwill - CC BY 4.0 - toll plaza
+  https://sketchfab.com/3d-models/posto-pedagio-toll-station-rodoanel-ccr-0a06205b06384acf8f807b8953bfe106
+"Ceiling Lamps/Lights Set-up" by ROY - CC BY 4.0 - interior LED ceiling lights (glTF converted to FBX in Blender)
+  https://sketchfab.com/3d-models/ceiling-lampslights-set-up-2dbd6edaf1d84b8fae9a8d2466e4312e
+"AERODROME" by ririnhasra88 - CC BY 4.0 - runway, taxiway, animated airplanes
+  https://sketchfab.com/3d-models/aerodrome-ec5a7b76380448f38a39e45f2e848d16
+
+"Airport Final Big Scene" by assetfactory - Sketchfab Free Standard license - terminal modules and hangars
+  https://sketchfab.com/3d-models/none-88c17adc828a4952a2d06737fb62cfa4
+"PSX Style Street Light kit" by FlunkedPunk - Sketchfab Free Standard license - street lights
+  https://sketchfab.com/3d-models/psx-style-street-light-kit-056fdeefff1d4462bfe6cb6d8a2a63bc
+"Stadium Light" by thundermind - CC BY 4.0 - stadium light towers
+  https://sketchfab.com/3d-models/stadium-light-425625d154084a29a194dd2b0bb52fd5
+
+CGTRADER (free assets, CGTrader Royalty Free license)
+-----------------------------------------------------
+"Rigged Police Man - Low Poly" by marciovitor491 - police / staff character
+  https://www.cgtrader.com/designers/marciovitor491
+Pilot character ("Benjamin") by 3dartist-universe
+  https://www.cgtrader.com/designers/3dartist-universe
+Air ventilation / duct model by thesunshinedude
+  https://www.cgtrader.com/designers/thesunshinedude
+
+UNITY ASSET STORE (used under the Unity Asset Store EULA)
+---------------------------------------------------------
+  AllSky Free - 10 Sky / Skybox Set (skyboxes) - https://assetstore.unity.com/packages/2d/textures-materials/sky/allsky-free-10-sky-skybox-set-146014
+  Mobile Optimize - Free Low Poly Cars - Awbmecreations (traffic vehicles)
+  Office Essentials Pack - nappin (interior props)
+  Floreswa pack - Floreswa (plants)
+  Jewelry shop pack - free Asset Store pack (shop props)
+  Starter Assets - First Person Controller - Unity Technologies (player controller)
+
+MODIFICATIONS
+-------------
+Models were re-arranged, re-textured, merged and optimized (combined meshes, lightmap UVs, consolidated
+materials). Ceiling, runway, stadium and vehicle lights, sirens, fog, lightmaps and light probes were created
+for this project. Scripts under Assets/Scripts and Assets/Editor were written for this project.
